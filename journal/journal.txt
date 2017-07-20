@@ -1,0 +1,5 @@
+2017.07.20 Thursday
+- Created this Git repo in https://github.com/cyberSJ/cyberdrone
+- Created Taiga project management section in
+  https://tree.taiga.io/project/cybersj-cyberdrone/
+- Created this journal. Need to brainstorm for the project.
